@@ -1,4 +1,4 @@
-# ascii-art
+# print-art
 
 ## Description
 This Project will take an image and print out an [ASCII-art](https://en.wikipedia.org/wiki/ASCII_art).
